@@ -1,1 +1,1 @@
-# Comparison-of-Mediapipe-and-Openpose
+# Comparison-of-MediaPipe-and-OpenPose
